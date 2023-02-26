@@ -1,3 +1,3 @@
 # SimulationPortfolio
 
-:smiley_cat: Portifolio on simulation models - Enjoy! 
+:smiley_cat: Portifolio of my simulation models - Enjoy! 
