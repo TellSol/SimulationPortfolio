@@ -2,7 +2,10 @@
 
 :bullettrain_front: :truck: 
 
-Personal portifolio of various simulation models for industrial applications
+Personal portfolio of various simulation models for:
+> Manufacturing applications
+> Supply Chains
+> Transportation / Logistics
 
 Tech Stack:
 > Python
