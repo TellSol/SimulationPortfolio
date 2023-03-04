@@ -2,7 +2,7 @@
 
 :bullettrain_front: :truck: 
 
-Personal portifolio of various simulation models for industrial problems
+Personal portifolio of various simulation models for industrial applications
 
 Tech Stack:
 > Python
