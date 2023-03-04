@@ -10,6 +10,6 @@ Personal portfolio of various simulation models for:
 Tech Stack:
 > Python<br />
 > Java / AnyLogic / Simudyne<br />
-> MongoDB / Postgresql<br />
+> MongoDB / SQL <br />
 
 :ship: 🏭
