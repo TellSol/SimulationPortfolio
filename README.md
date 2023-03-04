@@ -9,4 +9,4 @@ Tech Stack:
 > Java / AnyLogic / Simudyne
 > MongoDB / Postgresql
 
-:ship: :factory
+:ship: 🏭
