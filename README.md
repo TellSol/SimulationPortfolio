@@ -1,5 +1,3 @@
-# SimulationPortfolio
+# Simulation Portfolio
 
-:smiley_cat: Portifolio of my simulation models - Enjoy! 
-
-:bullettrain_front: :truck: :ship: :airplane:
+:bullettrain_front: :truck: Portifolio of my simulation models :ship: :airplane:
