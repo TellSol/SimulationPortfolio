@@ -1,0 +1,15 @@
+Problem Description:
+____________________
+
+A facility has customers arriving at a rate of IAT 5 mins deterministically. Processing time is 12 minutes per customer, and the facility currently has 5 servers.
+At the 4th hour, the arrivals increase from 5 mins IAT to 2 mins IAT. This lasts for 2 hours and the IAT goes back to normal. 
+
+The simulation runs for a day (8hrs). We want to run three scenarios and look at operating cost, average queue size, max queue size and total customers processed.
+
+The three Scenarios are:
+> 5 servers at the facility
+> 3 servers at the facility
+> 3 servers at the facility until the 4th hour, then add 3 servers for 2 hours, then switch back to 3 servers
+
+
+
