@@ -1,0 +1,10 @@
+Problem Description:
+____________________
+
+A quarry operation consists of 4 20-tonner trucks and 2 50-tonner trucks moving between a shovelling and a crushing operation. 
+Shovelling takes 2 hours and crushing takes 5 hours. Moving between the operations takes 1 hour. 
+
+When a queue is formed in front of the crushing operation. The 50-tonner trucks always goes in front of the line. 
+
+
+Run a simulation where you show have the 4 20-tonner trucks over time does not get to unload any raw material as the 50-tonners gradually takes over.
