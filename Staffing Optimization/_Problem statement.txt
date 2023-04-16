@@ -11,6 +11,3 @@ The three Scenarios are:
 > 5 servers at the facility
 > 3 servers at the facility
 > 3 servers at the facility until the 4th hour, then add 3 servers for 2 hours, then switch back to 3 servers
-
-
-
